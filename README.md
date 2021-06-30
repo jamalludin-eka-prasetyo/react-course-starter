@@ -1,2 +1,2 @@
-# react-course-starter
+# static-template
 Created with CodeSandbox
